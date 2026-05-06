@@ -8,7 +8,11 @@
 	<link rel="icon" href={favicon} />
 </svelte:head>
 <nav>
-	<img src={hackclub} alt='hackclub.com'>
+	<div class='bigboylogo'>
+		<a href="https://hackclub.com/">
+			<img src={hackclub} alt='hackclub.com'>
+		</a>
+	</div>
 </nav>
 
 {@render children()}
