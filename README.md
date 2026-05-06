@@ -1,3 +1,6 @@
+# Frog
+YS: Cool projects
+WS: Cool stuff
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
