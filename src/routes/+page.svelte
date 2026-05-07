@@ -7,6 +7,6 @@
 <body>
     <h1>Frog</h1>
     <h2>YS:Cool Projects
-        WS: A cardboard cutout or bodypillow of @frog
+        WS: A cardboard cutout TBD
     </h2>
 </body>
